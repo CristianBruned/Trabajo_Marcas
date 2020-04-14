@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Diario</title>
+    <link>https://cristianbruned.github.io/Trabajo_Marcas/</link>
+    <description>Diario de 8 dias</description>
+    
+      <item>
+        <title>Dia 1</title>
+        <description>Videojuego y herida</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%201.html#Dia1</link>
+      </item>
+      
+      <item>
+        <title>Dia 2</title>
+        <description>Dolor</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%202.html#Dia2</link>
+      </item>
+      
+      <item>
+        <title>Dia 3</title>
+        <description>Rol y trasfondo</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%203.html#Dia3</link>
+      </item>
+      
+      <item>
+        <title>Dia 4</title>
+        <description>Dardos y lectura</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%204.html#Dia4</link>
+      </item>
+      
+      <item>
+        <title>Dia 5</title>
+        <description>Videojuegos y charla</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%205.html#Dia5</link>
+      </item>
+      
+
+      <item>
+        <title>Dia 6</title>
+        <description>Cine y siesta</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%206.html#Dia6</link>
+      </item>
+      
+
+      <item>
+        <title>Dia 7</title>
+        <description>Lectura y dibujo</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%207.html#Dia7</link>
+      </item>
+      
+
+      <item>
+        <title>Dia 8</title>
+        <description>Rol complicado</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%208.html#Dia8</link>
+      </item>
+      
+      <item>
+        <title>Dia 9</title>
+        <description>Pasta</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%209.html#Dia9</link>
+      </item>
+
+      <item>
+        <title>Dia 10</title>
+        <description>Nada</description>
+        <link>https://cristianbruned.github.io/Trabajo_Marcas/Dia%2010.html#Dia10</link>
+      </item>
+
+	</channel>
+</rss>
